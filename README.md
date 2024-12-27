@@ -1,4 +1,4 @@
-## Hi there 👋
+Just a high school student trying to get a hang of this informatics thing
 
 <!--
 **noobluu/noobluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
